@@ -3,7 +3,7 @@
 Summary:	Teacher Tools for the MILLE-XTERM project
 Name:		mille-xterm-teachtools
 Version:	1.0
-Release:	%mkrel 0.%{svn}.1
+Release:	%mkrel 0.%{svn}.2
 License:	GPL
 Group:		System/Servers
 URL:		http://www.revolutionlinux.com/mille-xterm
